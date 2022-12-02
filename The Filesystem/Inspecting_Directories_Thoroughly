@@ -1,0 +1,3 @@
+ls prize_winners
+ls -A prize_winners
+ls -Ahl

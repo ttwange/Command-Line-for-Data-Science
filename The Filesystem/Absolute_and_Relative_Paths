@@ -1,0 +1,4 @@
+answer false true false
+cd /home
+ls dq
+ls -al dq/prize_winners

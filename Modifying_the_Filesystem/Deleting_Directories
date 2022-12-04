@@ -1,0 +1,3 @@
+rmdir brets
+mkdir brats
+rmdir dir2 dir3 dir5

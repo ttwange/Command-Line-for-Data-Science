@@ -1,0 +1,4 @@
+mkdir html_files archive data
+mv *l html_files
+mv 201[!9]* archive
+mv 2019* data

@@ -1,0 +1,2 @@
+find / -name '*.b64'
+mv /sqlite-autoconf-3210000/tea/win/you_found_it.b64 ~

@@ -1,0 +1,4 @@
+cd ~/brats
+cp augustus a\*
+cp tv 't?'
+ls 'a*' 't?'

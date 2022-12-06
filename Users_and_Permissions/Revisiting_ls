@@ -1,0 +1,4 @@
+cd /
+ls -l
+mkdir oops
+cd root

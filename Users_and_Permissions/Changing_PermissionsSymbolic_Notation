@@ -1,0 +1,6 @@
+cd
+chmod a+rwx mistery_file
+chmod g+wx,o+w Trash
+chmod g+x config_file_1
+chmod g+x,o=r config_file_2
+chmod a=rwx,o-x d*

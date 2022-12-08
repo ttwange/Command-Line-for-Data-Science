@@ -1,0 +1,3 @@
+python -c 'print(3/2)'
+type python
+python3 -c 'print(3/2)'
